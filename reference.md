@@ -1,7 +1,7 @@
 # Reference
 
 - Official `redis-py` documentation
-  - https://redis.io/docs/clients/python/
+  - https://redis.io/docs/latest/develop/clients/redis-py/
 - Python Client for Google Cloud Storage
   - https://cloud.google.com/python/docs/reference/storage/latest/index.html
 - The CAP Theorem and BASE
