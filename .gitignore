@@ -4,3 +4,9 @@ solutions/
 output/*.db*
 *.pyc
 __pycache__/
+
+# Environment variables and credential files
+.env
+*.env
+.env.local
+.env.*.local
